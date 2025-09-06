@@ -1,7 +1,7 @@
 
 # Edilson Torres
 
-Sonho em ingressar na área de desenvolvimento, estou no terceiro periodo da faculdade em análise e desenvolvimento de sistemas, e atualmente faço estágio na área de suporte tecnico.
+Desenvolvedor Python/Django
 
 ## Conecte-se comigo
 
